@@ -1,0 +1,18 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/emps/2"
+    },
+    "response": {
+        "status": 200,
+        "body": {
+            "A":"Apple",
+            "B":"Ball",
+            "Addr":"Address"
+        },
+        "headers": {
+            "Content-Type": "text/plain",
+            "token": "12345"
+        }
+    }
+}

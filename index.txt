@@ -1,0 +1,88 @@
+### Rest Assured Framework using Java ###
+
+Youtube channels:
+Chapter 1: https://www.youtube.com/watch?v=AbJrfP4ziIk
+Chapter 2: https://www.youtube.com/watch?v=vjxy3KkYihQ
+Chapter 3: https://www.youtube.com/watch?v=5tuWVG2Hz5k
+Chapter 4: https://www.youtube.com/watch?v=P-UrsGeKuMQ
+Chapter 5: https://www.youtube.com/watch?v=ZJ_2k07TUbw
+Chapter 6: https://www.youtube.com/watch?v=4haz0QRTYXw
+Chapter 7: https://www.youtube.com/watch?v=ac7PuFeRuo8
+Chapter 8: https://www.youtube.com/watch?v=lhRzNSuKDaA
+
+# Topics to be covered
+
+1. Background 
+	1.1 SOAP vs Rest web services
+	1.2 Rest Assured Framework
+		1.2.1 Different Java frameworks like Dropwizard, Jersy, RESTEasy, Spark and Rest Assured
+		1.2.2 http://rest-assured.io/  >  Who
+		
+2. Pre-requisite
+	2.1 Java setup, Maven Setup
+	2.2 IDE - IntelliJ/Eclipse
+
+3. Rest Assured Project Setup using Maven dependencies
+	3.1 com.jayway.restassured
+	3.2 rest-assured.io
+
+4. Getting started
+	4.1 Basic features in Rest Assured
+	4.2 Root setting
+	4.3 Schema Verification
+	4.4 Sample POST request
+	
+5. Different ways to read response
+
+6. Groovy feature advantages
+
+7. Extracting response using Json Path
+
+8. Fetch Headers and Cookies
+
+9. Setting Request Data
+	9.1 Query parameter
+	9.2 Form parameter
+	9.3 Recommended way to set parameters
+	9.4 Path parameters
+	
+10. Verifying service response	
+	10.1 Assertions on headers, cookies etc
+	10.2 Using Lambda expressions (Java 8)
+
+11. Time measurement  (Chapter 8)
+
+12. Specification Builders	
+	12.1 Response Spec Builder
+	12.2 Request Spec Builder
+	
+13. Logging	
+
+14. Handling SSL TLS Certificate issues
+
+15. Object Mapping
+	15.1 Serialization
+	15.2 De-serialization
+	
+16. Parsers
+	16.1 Default Parser
+	16.2 Custom Parser	
+
+17. Authentication
+	17.1 Basic Authentication
+			17.1.1 Basic authentication
+			17.1.2 Preemptive authentication
+	17.2 Digest Authentication
+	17.3 Form Authentication
+	17.4 CSRF Authentication
+	17.5 OAuth Authentication
+		17.5.1 OAuth 1
+		17.5.2 OAuth 2
+
+18 Multi Part Form Data
+	18.1 Upload a file using rest assured
+	
+
+19. Demo Rest Framework
+
+

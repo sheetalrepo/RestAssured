@@ -1,0 +1,38 @@
+{
+	"Pet1": [
+		{
+			"name": "Kitty1",
+			"category": "cat"
+		},
+		{
+			"name": "Rex1",
+			"category": "dog"
+		},
+		{
+			"name": "Jake1",
+			"category": "horse"
+		}
+	],
+	"Pet2": [
+		{
+			"name": "Kitty2",
+			"category": "cat"
+		},
+		{
+			"name": "Rex2",
+			"category": "dog"
+		}
+	],
+	"Pet3Robo": [
+		{
+			"surname": "KittyRobo",
+			"category": "robot",
+			"hp": "100hp"
+		},
+		{
+			"surname": "RexRobo",
+			"category": "robot",
+			"hp": "200hp"
+		}
+	]
+}

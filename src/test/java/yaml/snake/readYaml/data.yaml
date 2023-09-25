@@ -1,0 +1,4 @@
+child:
+  - {firstName: "Prod", lastName: "Bug"}
+  - {firstName: "Sheetal", lastName: "Singh"}
+  - {firstName: "ISRO", lastName: "Moon"}

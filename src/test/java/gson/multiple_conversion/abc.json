@@ -1,0 +1,14 @@
+{
+	"ID": "E103",
+	"Name": "Mark",
+	"Position": "Director",
+	"Salary": 500000,
+	"Dept": "Finance",
+	"Location": "Bombay",
+	"Skills": [
+		"People Management",
+		"Management",
+		"Laws Info"
+	],
+	"Country": "India"
+}

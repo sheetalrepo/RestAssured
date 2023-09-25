@@ -1,0 +1,48 @@
+# SDET Series 3: Playing with JSONs
+1. Reading a JSON file via JsonNode
+2. Reading a JSON from Http Web Url
+3. Reading/Converting JSON, URI, URL, JsonNode
+4. De-serialization JSON ->  Obj
+5. Serialization Java Obj -> JSON
+6. How to read a dynamic JSON (changes its structure)
+7. Jackson / GSON Libraries
+8. XML
+9. How to make Json from CSV files - Example from real Financial Projects
+10. Other real project examples
+
+
+# SDET Series 1: All about Rest Assured
+(https://www.youtube.com/playlist?list=PLEiBaBxmVLi-hoi61aX-2agQb8EXSCT5f)
+1. Covered complete Rest Assured from basic to advanced with examples
+2. Ready to use Automation Framework
+
+
+# SDET Series 2: Important SDET Automation Testing Topics
+(https://www.youtube.com/playlist?list=PLEiBaBxmVLi-C80yaSHLp8Ed2n5QRcJZo)
+1. Cucumber Framework with Dependency Injection
+2. Cucumber Parallel Running
+3. Using feature files from separate projects using dependencies
+4. CICD
+5. Sonar Qube setup
+6. GraphWalker - Automation of Model Based Testing
+7. Lombok
+8. Reading property via Owner library - very useful
+
+
+# Current Series
+Chapter 1: Read Nested Jsons, Array data in Json  https://youtu.be/lUcEYA4BS2E
+
+
+
+#API Automation Testing Advanced Concepts Series
+Chapter 1: Read Nested Jsons, Array data in Json  https://youtu.be/lUcEYA4BS2E
+Chapter 2: Read Json From Web Url, URI            https://youtu.be/I6UsqFFoDG8
+Chapter 3: De Serialization JSON to Java Object   https://youtu.be/nT1wD7bBC_w
+Chapter 4: Serialization Java Object to JSON      https://youtu.be/Yz8BNTIUNPU
+Chapter 5: Handling Dynamic JSON                  https://youtu.be/dTWb6waxV90
+Chapter 6: GSON library features JSON Object, JSON Element, JSON Array https://youtu.be/vcAcvKFw1I0
+Chapter 7: Read XML via Jackson libraries         https://youtu.be/80g06BwB77s
+Chapter 8: Making JSON from CSV - Financial Project Real Example https://youtu.be/UoreN-wBUQQ 
+
+
+
