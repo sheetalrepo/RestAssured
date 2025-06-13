@@ -1,0 +1,9 @@
+{
+    "name": "Bata 500",
+    "category": "shoes",
+    "details": {
+        "size": "9",
+        "color": "black",
+        "material": "rubber"
+    }
+}

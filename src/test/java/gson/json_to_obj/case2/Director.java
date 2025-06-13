@@ -1,4 +1,4 @@
-package gson.json_to_obj;
+package gson.json_to_obj.case2;
 
 import java.math.BigDecimal;
 import java.util.List;

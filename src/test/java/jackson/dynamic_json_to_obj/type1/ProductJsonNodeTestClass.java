@@ -1,4 +1,4 @@
-package jackson.dynamic_json_to_obj;
+package jackson.dynamic_json_to_obj.type1;
 
 import java.io.File;
 import java.io.IOException;
@@ -20,7 +20,7 @@ public class ProductJsonNodeTestClass {
 		ObjectMapper objMapper = new ObjectMapper();
 
 		// Set 1:
-		String mobileJsonPath = "./src/test/java/jackson/dynamic_json_to_obj/mobile.json";
+		String mobileJsonPath = "./src/test/java/jackson/dynamic_json_to_obj/type1/mobile.json";
 		ProductJsonNode productMobile = getPlaceHolderObject(mobileJsonPath, objMapper);
 
 		System.out.println(productMobile.getName());
@@ -33,7 +33,7 @@ public class ProductJsonNodeTestClass {
 		
 		
 		// Set 2:
-		String shoesJsonPath = "./src/test/java/jackson/dynamic_json_to_obj/shoes.json";
+		String shoesJsonPath = "./src/test/java/jackson/dynamic_json_to_obj/type1/shoes.json";
 		ProductJsonNode productShoes = getPlaceHolderObject(shoesJsonPath, objMapper);
 
 		System.out.println(productShoes.getName());

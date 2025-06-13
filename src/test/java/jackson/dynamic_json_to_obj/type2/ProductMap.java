@@ -1,4 +1,4 @@
-package jackson.dynamic_json_to_obj;
+package jackson.dynamic_json_to_obj.type2;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

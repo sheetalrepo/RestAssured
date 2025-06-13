@@ -1,4 +1,4 @@
-package jackson.dynamic_json_to_obj;
+package jackson.dynamic_json_to_obj.type1;
 
 import com.fasterxml.jackson.databind.JsonNode;
 

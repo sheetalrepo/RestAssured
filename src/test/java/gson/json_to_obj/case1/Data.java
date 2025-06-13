@@ -1,4 +1,4 @@
-package gson.json_to_obj;
+package gson.json_to_obj.case1;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

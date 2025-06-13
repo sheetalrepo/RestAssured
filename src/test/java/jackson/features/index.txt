@@ -34,7 +34,9 @@ Chapter 1: Read Nested Jsons, Array data in Json  https://youtu.be/lUcEYA4BS2E
 
 
 
-#API Automation Testing Advanced Concepts Series
+#API Automation Testing Advanced Concepts Series 
+https://www.youtube.com/playlist?list=PLEiBaBxmVLi_4HbysORHdMon4b4YMcZIW
+
 Chapter 1: Read Nested Jsons, Array data in Json  https://youtu.be/lUcEYA4BS2E
 Chapter 2: Read Json From Web Url, URI            https://youtu.be/I6UsqFFoDG8
 Chapter 3: De Serialization JSON to Java Object   https://youtu.be/nT1wD7bBC_w
@@ -43,6 +45,7 @@ Chapter 5: Handling Dynamic JSON                  https://youtu.be/dTWb6waxV90
 Chapter 6: GSON library features JSON Object, JSON Element, JSON Array https://youtu.be/vcAcvKFw1I0
 Chapter 7: Read XML via Jackson libraries         https://youtu.be/80g06BwB77s
 Chapter 8: Making JSON from CSV - Financial Project Real Example https://youtu.be/UoreN-wBUQQ 
+WireMock in 30min
 
 
 

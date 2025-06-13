@@ -1,0 +1,8 @@
+{
+    "name": "Nokia 300",
+    "category": "cellphone",
+    "details": {
+        "displayAspectRatio": "97:3",
+        "audioConnector": "No Audio Connector"
+    }
+}

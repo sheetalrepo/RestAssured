@@ -1,4 +1,4 @@
-package gson.json_to_obj;
+package gson.json_to_obj.case3;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
@@ -9,16 +9,13 @@ import lombok.ToString;
 @Getter
 @Setter
 @ToString
-public class Pet3Robo {
+public class Pet1 {
 
-	@SerializedName("surname")
+	@SerializedName("name")
 	@Expose
-	private String surname;
+	private String name;
 	@SerializedName("category")
 	@Expose
 	private String category;
-	@SerializedName("hp")
-	@Expose
-	private String hp;
 
 }

@@ -1,4 +1,4 @@
-package jackson.dynamic_json_to_obj;
+package jackson.dynamic_json_to_obj.type2;
 
 import java.io.File;
 import java.io.IOException;
@@ -18,7 +18,7 @@ public class ProductMapTestClass {
 	public static void main(String[] args) throws JsonParseException, JsonMappingException, IOException {
 		ObjectMapper objMapper = new ObjectMapper();
 		
-		String shoesJsonPath = "./src/test/java/jackson/dynamic_json_to_obj/shoes.json";
+		String shoesJsonPath = "./src/test/java/jackson/dynamic_json_to_obj/type2/shoes.json";
 		ProductMap productShoes = getPlaceHolderObject(shoesJsonPath, objMapper);
 		System.out.println(productShoes.getName());
 		System.out.println(productShoes.getCategory());

@@ -1,9 +1,10 @@
-package gson.json_to_obj;
+package gson.json_to_obj.case3;
 
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
 import com.google.gson.Gson;
+import gson.json_to_obj.case3.PetsBase;
 
 public class PetTestClass {
 
@@ -24,7 +25,7 @@ public class PetTestClass {
 
 	public static void main(String[] args) {
 		Gson gson = new Gson();
-		String path = ".\\src\\test\\java\\gson\\json_to_obj\\pet.json";
+		String path = ".\\src\\test\\java\\gson\\json_to_obj\\case3\\pet.json";
 		PetsBase baseObj = getJsonDataAsJavaObj(path, gson);
 		printme(baseObj);
 	}

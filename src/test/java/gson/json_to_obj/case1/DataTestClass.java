@@ -1,4 +1,4 @@
-package gson.json_to_obj;
+package gson.json_to_obj.case1;
 
 import java.io.FileReader;
 import java.io.IOException;
@@ -31,7 +31,7 @@ public class DataTestClass {
 	
 	public static void main(String[] args) {
 		Gson gson = new Gson();
-		String path = ".\\src\\test\\java\\gson\\json_to_obj\\data.json";
+		String path = ".\\src\\test\\java\\gson\\json_to_obj\\case1\\data.json";
 		DataPlaceholder base = getJsonDataAsJavaObj(path, gson);
 		printme(base);
 	}
